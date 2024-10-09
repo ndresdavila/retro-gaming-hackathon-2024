@@ -28,6 +28,7 @@ El **Rose Petal** es un token digital que reconoce el valor y la contribución d
    - **Accesibilidad y Usabilidad (20%)**
    - **Incentivos para Repetición (15%)**
    - **Implementación del Claim de Tokens (10%)**
+   - **Referencias a la cultura Guayaquileña (puntos extras secretos)**
   
 5. **Presentación**
     Solo un miembro del equipo debe presentar el proyecto, incluyendo los nombres de usuario de GitHub de todos los participantes.Tu entrega debe ser un proyecto original y novedoso. Puede ser una aplicación web, una app móvil, un juego o una herramienta; queremos ver ideas frescas e innovadoras. Buscamos proyectos que resalten la creatividad y la innovación. ¡No dudes en explorar nuevas fronteras y experimentar con propuestas inusuales!
@@ -44,7 +45,7 @@ El **Rose Petal** es un token digital que reconoce el valor y la contribución d
 9. **Premios**
    - **Primer Lugar**: Entradas gratis al **Innova-T Latam 2024** y **1 millón de tokens Rose Petal**.
    - **Segundo y Tercer Lugar**: Premios en tokens Rose Petal.
-   - **Premios Especiales**: Se otorgarán premios adicionales para categorías como "Mejor Diseño", "Mayor Viralidad", o "Mejor UX".
+   - **Premios Especiales**: Se otorgarán premios adicionales para categorías como "Mejor Diseño", "Más identidad guayaquileña", o "Mejor UX".
    - **Reconocimientos**: Todos los participantes recibirán tokens Rose Petal y menciones especiales.
 
    Además, se planea una **segunda fase de integración** con los dos finalistas, en colaboración con [NFT Latam](https://www.nftslatam.art/).
