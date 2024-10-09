@@ -12,11 +12,27 @@
 - **Notificación de ganadores**: 14/10/2024 12:00
 - **Entregra de reconocimientos y premios**: 16/10/2024 durante el [Innova-T Latam](https://innovatlatam.com/)
 
-## Registros
+## ¿Cómo enviar tu Propuesta de Proyecto?
+
+Sigue estos pasos para enviar tu propuesta de proyecto en el hackathon:
+
+### Paso 1: Regístrate
 
 - [Regístrate](https://hacktoberfest.com/) para Hacktoberfest.
 
 - [Inscríbete](https://forms.gle/Qyeoc46c8NSkqeNNA) para el Hackathon (esto debe ser hecho por todos los miembros de tu equipo).
+
+### Paso 2: Agrega la propuesta de tu proyecto a este repositorio
+
+- Crea una nueva rama o fork con el mismo nombre de tu proyecto.
+
+- Visita el directorio `presentaciones/` y crea una copia de `plantilla_presentacion_retro_gaming.md` con el mismo nombre que el título de tu proyecto.
+
+- Ingresa todos los detalles necesarios según la plantilla.
+
+- Crea un pull request.
+
+*Nota: El paso 2 solo debe ser completado por un miembro del equipo.*
 
 ## Reglas y Código de Conducta
 
