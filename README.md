@@ -27,9 +27,8 @@ Todos los participantes deben aceptar las [Reglas](RULES.md) y el [Código de Co
 Nuestra web [Hacktoberfest GYE 2024](https://hacktoberfestgye.org)
 Para estar enterado de nuevas actualizaciones respecto al evento puedes seguirnos en Instagram:
 [@hacktoberfestgye](https://www.instagram.com/hacktoberfestgye/)
-[@funpython](https://www.instagram.com/hacktoberfestgye/)
 
-Para contactarte con el organizador puedes escribir al [WhatsApp](https://wa.me/message/AAI3OELJXGBII1) o al correo de la comunidad: <funpython.ec@gmail.com>
+Para contactarte con el team organizador puedes escribir al [WhatsApp](https://wa.me/message/AAI3OELJXGBII1) o al correo: <hfteam@hacktoberfestgye.org>
 
 ## Este hackathon es posible gracias al apoyo de
 
